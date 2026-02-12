@@ -1,8 +1,11 @@
 Metadata-Version: 2.4
 Name: agent-tree
-Version: 0.1.0
-Summary: Visualize LangChain agent traces as a clean terminal tree.
-Author-email: Your Name <you@example.com>
+Version: 0.1.1
+Summary: A terminal-based tree visualizer for AI agent traces.
+Author-email: Umar Farooq <your-email@example.com>
+Project-URL: Homepage, https://github.com/umarfarooq478/agent-tree
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
 Requires-Python: >=3.9
 Description-Content-Type: text/markdown
 Requires-Dist: rich>=13.0.0
@@ -20,7 +23,7 @@ Requires-Dist: langchain-core>=0.1.0
 
 | Without agent-tree (Messy JSON) | With agent-tree (Clean Visualization) |
 | :---: | :---: |
-| <img src="./assets/json.png" width="400" /> | <img src="./assets/agent-tree.png" width="400" /> |
+| <img src="https://raw.githubusercontent.com/umarfarooq478/agent-tree/refs/heads/master/assets/json.png" width="400" /> | <img src="https://raw.githubusercontent.com/umarfarooq478/agent-tree/refs/heads/master/assets/agent-tree.png" width="400" /> |
 
 ## 🚀 Quick Start
 
@@ -63,3 +66,5 @@ pip install agent-tree
 
 ```
 
+## Github Repository
+You can find the full source code and contribute on [GitHub](https://github.com/umarfarooq478/agent-tree).

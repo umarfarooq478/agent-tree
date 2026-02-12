@@ -10,7 +10,7 @@
 
 | Without agent-tree (Messy JSON) | With agent-tree (Clean Visualization) |
 | :---: | :---: |
-| <img src="./assets/json.png" width="400" /> | <img src="./assets/agent-tree.png" width="400" /> |
+| <img src="https://raw.githubusercontent.com/umarfarooq478/agent-tree/refs/heads/master/assets/json.png" width="400" /> | <img src="https://raw.githubusercontent.com/umarfarooq478/agent-tree/refs/heads/master/assets/agent-tree.png" width="400" /> |
 
 ## 🚀 Quick Start
 
@@ -53,3 +53,5 @@ pip install agent-tree
 
 ```
 
+## Github Repository
+You can find the full source code and contribute on [GitHub](https://github.com/umarfarooq478/agent-tree).
